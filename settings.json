@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bottt",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sigiemki-dZip.aternos.me",
+    "ip": "sigiemki-dZip.aternos.me:63695",
     "port":  63695,
     "version": "",
     "try-creative": false
